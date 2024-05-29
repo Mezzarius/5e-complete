@@ -190,5 +190,6 @@
       },
       "system": "dnd5e"
     }
-  ]
+  ],
+  "manifest": "https://github.com/Mezzarius/5e-complete/module.json"
 }
